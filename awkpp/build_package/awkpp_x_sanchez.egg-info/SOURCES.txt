@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+awkpp_x_sanchez.egg-info/PKG-INFO
+awkpp_x_sanchez.egg-info/SOURCES.txt
+awkpp_x_sanchez.egg-info/dependency_links.txt
+awkpp_x_sanchez.egg-info/top_level.txt

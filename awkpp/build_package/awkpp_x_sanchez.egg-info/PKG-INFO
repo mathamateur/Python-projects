@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: awkpp-x-sanchez
+Version: 0.0.1
+Summary: Tool for agregating data in .csv format using small amount of RAM.
+Home-page: http://awkpp.com/
+Author: Kharitonov Alexander
+Author-email: sanya0112@mail.ru
+License: UNKNOWN
+Project-URL: Bug Tracker, http://awkpp.com/task/add
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
